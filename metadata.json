@@ -1,0 +1,6 @@
+{
+  "name": "LocalSLM: Offline GGUF & WebGPU AI",
+  "description": "Download and run local Small Language Models (GGUF & WebGPU) directly on your device with offline execution, sliding context STM, long-term memory, and syntax-highlighted code rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
